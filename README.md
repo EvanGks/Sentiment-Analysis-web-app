@@ -1,7 +1,5 @@
 # 🌍 Multilingual Sentiment Analysis Web App
 
-**Showcase your AI skills with a full-stack, production-ready sentiment analysis application!**
-
 This project demonstrates advanced AI integration, modern web development, and best practices for deploying intelligent applications. It analyzes sentiment in text across dozens of languages using the Hugging Face Inference API and the [tabularisai/multilingual-sentiment-analysis](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) model, with automatic language detection and a beautiful, responsive user interface.
 
 ---
