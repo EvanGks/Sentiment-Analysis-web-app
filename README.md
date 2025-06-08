@@ -138,6 +138,13 @@ This project is licensed under the [MIT License](./LICENSE) © 2025 Evan GKS.
 
 Evan GKS
 
+For questions or feedback, please reach out via:
+- **GitHub:** [EvanGks](https://github.com/EvanGks)
+- **X (Twitter):** [@Evan6471133782](https://x.com/Evan6471133782)
+- **LinkedIn:** [Evangelos Gakias](https://www.linkedin.com/in/evangelos-gakias-346a9072)
+- **Kaggle:** [evangelosgakias](https://www.kaggle.com/evangelosgakias)
+- **Email:** [evangks88@gmail.com](mailto:evangks88@gmail.com)
+
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests!
+Happy coding!!
